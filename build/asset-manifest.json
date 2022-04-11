@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bc4f9917.css",
+    "main.js": "/static/js/main.c701a767.js",
+    "static/js/787.652e163d.chunk.js": "/static/js/787.652e163d.chunk.js",
+    "static/media/tres.jpg": "/static/media/tres.348a0dc5aea938dfcb38.jpg",
+    "static/media/documentoweb.pdf": "/static/media/documentoweb.b52289e5a14b6f4d38e3.pdf",
+    "static/media/cuatro.jpg": "/static/media/cuatro.058658f670f169034aa0.jpg",
+    "static/media/Escudo.svg": "/static/media/Escudo.feecf49dc37f69e2b6cd3d22b9fddbe5.svg",
+    "static/media/dos.jpg": "/static/media/dos.590350a14e826102a820.jpg",
+    "static/media/loscordobas.png": "/static/media/loscordobas.bbe17c1f58f45d879531.png",
+    "static/media/defensa-civil.png": "/static/media/defensa-civil.3d720005ce96baaa1b1b.png",
+    "static/media/Recurso 1.png": "/static/media/Recurso 1.4045de4fb2f6fc7b36ad.png",
+    "static/media/organigrama.png": "/static/media/organigrama.ce94598b8b28a4b3cd45.png",
+    "static/media/ure.jpg": "/static/media/ure.4003b4aad306c3268460.jpg",
+    "static/media/-moñitos.jpg": "/static/media/-moñitos.361ada64f141ff685dc3.jpg",
+    "static/media/LOGO.svg": "/static/media/LOGO.3eb73270a87930d841385993e5063d88.svg",
+    "static/media/buenavista.jpg": "/static/media/buenavista.1fee5f4c17ceee45a5d7.jpg",
+    "static/media/descarga.jfif": "/static/media/descarga.2442d28e868feaf3b9fc.jfif",
+    "index.html": "/index.html",
+    "static/media/iconmonstr-angel-left-thin.svg": "/static/media/iconmonstr-angel-left-thin.b74b51c4c35fb292f28d63a42b7d73c9.svg",
+    "static/media/iconmonstr-angel-right-thin.svg": "/static/media/iconmonstr-angel-right-thin.b282d2fca8839e80178c1a178ce23993.svg",
+    "main.bc4f9917.css.map": "/static/css/main.bc4f9917.css.map",
+    "main.c701a767.js.map": "/static/js/main.c701a767.js.map",
+    "787.652e163d.chunk.js.map": "/static/js/787.652e163d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc4f9917.css",
+    "static/js/main.c701a767.js"
+  ]
+}
