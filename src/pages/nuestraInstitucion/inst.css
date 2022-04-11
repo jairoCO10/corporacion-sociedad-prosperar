@@ -1,0 +1,99 @@
+.clearfix {
+    display: block;
+}
+
+.page-title h1 {
+    font-size: 3em;
+    font-family: "Montserrat";
+    color: #074982;
+    font-weight: bold;
+}
+
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+h3{
+    display: block;
+    font-family: "Montserrat";
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    text-align: center;
+    text-align: justify;
+}
+
+.div_descripcion_default {
+    color: #000000;
+    margin-bottom: 40px;
+}
+b, strong {
+    font-weight: 700;
+}
+
+.p1{
+    line-height:150%;
+    text-align: justify;
+}
+
+.textSpan{
+    font-size: 16px;
+}
+
+
+
+.ins{
+    margin: 0 auto;
+    display: flex;
+    height: auto;
+    justify-content: space-around;
+    width: 62%;
+}
+
+.all{
+   text-align: justify;
+   width: 100%;
+   margin-bottom: 10%;
+}
+.table {
+    width: 120%;
+    border: 3px solid #000;
+    margin-bottom: 300px;
+ }
+ th {
+    width: 35%;
+    text-align: center;
+    border: 3px solid #000;
+ } 
+    
+ 
+ td {
+    width: 35%;
+    text-align: left;
+    border: 3px solid #000;
+ }
+
+ .open-map{
+     width: 90%;
+     border: 3px solid #000;
+     height: 60%;
+     background-color: aqua;
+     border-radius: 15px;
+
+ }
